@@ -13,10 +13,3 @@ Required font
 The "Neue Helvetica® Std 75 Bold" font is used to match the Cards Against
 Humanity style as closely as possible. The font can be purchased from
 linotype: http://www.linotype.com/45470/NeueHelveticaStd75Bold-product.html.
-
-Cow image
----------
-The Cow image is part of the "Free Retina Icon Set" provided by Aha-Soft under
-a Creative Commons Attribution-Share Alike 3.0 License.
-
-http://www.aha-soft.com/free-icons/free-retina-icon-set/
