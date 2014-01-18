@@ -12,7 +12,6 @@ The "Neue Helvetica® Std 75 Bold" font is used to match the Cards Against
 Humanity style as closely as possible. The font can be purchased from
 linotype: http://www.linotype.com/45470/NeueHelveticaStd75Bold-product.html.
 
-
 ## Creating cards
 The card content was originally created in Google Docs as a shared spreadsheet.
 Once all cards are written the black and white cards must be exported as
@@ -33,8 +32,9 @@ should confirm the CSV exported correctly.
 * Click OK
 * A dialog showing "No overset text was generated when merging records." should appear, click OK
 
-The pages list should now have a page per-card you created!
-
+The pages list should now have a page per-card you created! At this point you
+should verify the layout of each card; it's common to change the size of the
+blank space for black cards.
 
 ## Export the cards as a PDF
 The cards should be delivered to the printing company as a multi-page PDF.
