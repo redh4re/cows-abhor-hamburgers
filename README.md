@@ -13,3 +13,27 @@ Required font
 The "Neue Helvetica® Std 75 Bold" font is used to match the Cards Against
 Humanity style as closely as possible. The font can be purchased from
 linotype: http://www.linotype.com/45470/NeueHelveticaStd75Bold-product.html.
+
+
+Creating cards
+--------------
+The card content was originally created in Google Docs as a shared spreadsheet.
+Once all cards are written the black and white cards must be exported as
+seperate CSV files. Each CSV file must have a "CardText" header row for the
+DataMerge to function.
+
+If your cards contain have any special characters (such as © or ®) then you
+should confirm the CSV exported correctly.
+
+* Open the appropriate template using Adobe InDesign CC.
+* Click Window → Utilities → Data merge
+* Click the Menu icon in the upper right of the Data Merge window
+* Click "Select Data Source..."
+* Navigate to your exported CSV and click Open
+* Click the "Create Merged Document" icon in the bottom right of the Data Merge window
+  * Ensure "All Records" is selected
+  * Ensure "Records per Document Page" is set to "Single Record" 
+* Click OK
+* A dialog showing "No overset text was generated when merging records." should appear, click OK
+
+The pages list should now have a page per-card you created!
